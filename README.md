@@ -8,3 +8,5 @@ Add files from local computer to git
 The update is still a document. Adding the last line /*or maybe not)*\
 
 111 111 111 111 111 111
+
+Last commit in this document
